@@ -5,6 +5,12 @@ a [Sails](http://sailsjs.org) application
 
 # Autor: Juan Carlos Camarena Pérez
 # Backend, Nodejs, Sails
+
+# Puede consultar el ejercicio funcionando en
+
+http://camlab.mx/next/app
+
+
 # Para utilizar en localhost
 
 npm install sails -g
